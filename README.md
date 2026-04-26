@@ -41,7 +41,7 @@ It allows users to search for any city and get real-time weather information.
 
 ## 🌐 Live Demo
 
-https://poojakalve560.github.io/weather-app-using-html-css-js
+https://poojakalve560.github.io/weather-app-using-html-css-js/
 
 ---
 
