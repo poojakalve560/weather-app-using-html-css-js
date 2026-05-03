@@ -55,7 +55,8 @@ https://poojakalve560.github.io/weather-app-using-html-css-js/
 
 ## 📸 Screenshot
 
-(<img width="1920" height="1020" alt="Screenshot 2026-05-03 192229" src="https://github.com/user-attachments/assets/9c1cbfd7-1fe7-4173-ba5d-4b7c05976b4e" />,<img width="1920" height="1020" alt="Screenshot 2026-05-03 192249" src="https://github.com/user-attachments/assets/54f9bff7-70ef-4807-ab3c-5fc646d0d99a" />,<img width="1920" height="1020" alt="Screenshot 2026-05-03 192257" src="https://github.com/user-attachments/assets/e33ad282-04cc-4384-af17-ed1a165fe19d" />,<img width="1920" height="1020" alt="Screenshot 2026-05-03 192318" src="https://github.com/user-attachments/assets/4d9e6b5d-e8a8-47e9-b91a-dc47ecfe2185" />,<img width="1920" height="1020" alt="Screenshot 2026-05-03 192340" src="https://github.com/user-attachments/assets/71478956-1744-4cdd-b4a6-e7297903cf4b" />
+(<img width="1920" height="1020" alt="Screenshot 2026-05-03 192229" src="https://github.com/user-attachments/assets/9c1cbfd7-1fe7-4173-ba5d-4b7c05976b4e" />,<img width="1920" height="1020" alt="Screenshot 2026-05-03 192249" src="https://github.com/user-attachments/assets/54f9bff7-70ef-4807-ab3c-5fc646d0d99a" />,<img width="1920" height="1020" alt="Screenshot 2026-05-03 192257" src="https://github.com/user-attachments/assets/e33ad282-04cc-4384-af17-ed1a165fe19d" />, <img width="1920" height="1020" alt="Screenshot 2026-05-03 193136" src="https://github.com/user-attachments/assets/d6e49957-3a72-4c1c-814a-0a824cbe2232" />
+,<img width="1920" height="1020" alt="Screenshot 2026-05-03 192340" src="https://github.com/user-attachments/assets/71478956-1744-4cdd-b4a6-e7297903cf4b" />
 
 
 
