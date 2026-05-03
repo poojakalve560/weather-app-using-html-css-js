@@ -55,7 +55,8 @@ https://poojakalve560.github.io/weather-app-using-html-css-js/
 
 ## 📸 Screenshot
 
-(Add screenshot here later)
+(<img width="1920" height="1020" alt="Screenshot 2026-05-03 192229" src="https://github.com/user-attachments/assets/9c1cbfd7-1fe7-4173-ba5d-4b7c05976b4e" />
+)
 
 ---
 
