@@ -1,18 +1,20 @@
-# 🌦️ Weather App
+# 🌦️ Weather App – Real-Time Weather Forecast using API
 
-A simple and responsive weather application built using HTML, CSS, and JavaScript.
-It allows users to search for any city and get real-time weather information.
+## 💡 Key Highlights
+- Built a responsive weather application using JavaScript and API integration
+- Fetches real-time weather data based on user input
+- Displays dynamic weather conditions with icons
+- Processes user input and dynamically updates the UI
 
 ---
 
 ## 🚀 Features
-
 * 🔍 Search weather by city name
 * 🌡️ Displays temperature
 * 💧 Shows humidity level
 * 🌬️ Displays wind speed
 * 🌤️ Dynamic weather icons based on conditions
-
+  
 ---
 
 ## 🛠️ Technologies Used
@@ -38,6 +40,12 @@ It allows users to search for any city and get real-time weather information.
 2. Open `index.html` in your browser
 
 ---
+
+## ⚙️How It Works
+1. User enters city name  
+2. App sends API request  
+3. Weather data is fetched  
+4. UI updates dynamically  
 
 ## 🌐 Live Demo
 
